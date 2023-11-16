@@ -7,3 +7,5 @@ esta funcionalidad está en desarrollo.
 ### nueva version 2.0
 
 esta funcionalidad esta en desarrollo
+
+nuevo cambio en esta version
